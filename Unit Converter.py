@@ -1,0 +1,10 @@
+km=float(input("Enter The Kilometer : "));
+m=km*1000;
+cm=m*100;
+i=cm/2.54;
+ft=i/12;
+print("Kilometers : ",km);
+print("Meters  : ",m);
+print("Centimeters : ",cm);
+print("Inches : ",i);
+print("Feet : ",ft);
